@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1606845010 source:c:\users\luu\desktop\projectc\common.cpp
+
+1607168125 source:c:\users\luu\desktop\projectc\game.cpp
+	"Game.h"
+
+1607973194 c:\users\luu\desktop\projectc\game.h
+	"Common.h"
+
+1610310227 c:\users\luu\desktop\projectc\common.h
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<vector>
+
+1610315843 source:c:\users\luu\desktop\projectc\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Common.h"
+	"Game.h"
+	"Gamemap.h"
+	"MainObject.h"
+	"ThreatsObject.h"
+
+1606849817 source:c:\users\luu\desktop\projectc\game_map.cpp
+	"game_map.h"
+
+1606849804 c:\users\luu\desktop\projectc\game_map.h
+	"Common.h"
+	"Game.h"
+
+1610286626 source:c:\users\luu\desktop\projectc\gamemap.cpp
+	"Gamemap.h"
+
+1607194387 c:\users\luu\desktop\projectc\gamemap.h
+	"Common.h"
+	"Game.h"
+
+1610314963 c:\users\luu\desktop\projectc\mainobject.h
+	"Common.h"
+	"Game.h"
+
+1610316306 source:c:\users\luu\desktop\projectc\mainobject.cpp
+	"MainObject.h"
+
+1610316175 source:c:\users\luu\desktop\projectc\threatsobject.cpp
+	"ThreatsObject.h"
+
+1610316165 c:\users\luu\desktop\projectc\threatsobject.h
+	"Common.h"
+	"Game.h"
+
+1606845010 source:c:\users\luu\desktop\mat3520.gr06\common.cpp
+
+1607168125 source:c:\users\luu\desktop\mat3520.gr06\game.cpp
+	"Game.h"
+
+1607973194 c:\users\luu\desktop\mat3520.gr06\game.h
+	"Common.h"
+
+1610310227 c:\users\luu\desktop\mat3520.gr06\common.h
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<vector>
+
+1610286626 source:c:\users\luu\desktop\mat3520.gr06\gamemap.cpp
+	"Gamemap.h"
+
+1607194387 c:\users\luu\desktop\mat3520.gr06\gamemap.h
+	"Common.h"
+	"Game.h"
+
+1610316856 source:c:\users\luu\desktop\mat3520.gr06\mainobject.cpp
+	"MainObject.h"
+
+1610314963 c:\users\luu\desktop\mat3520.gr06\mainobject.h
+	"Common.h"
+	"Game.h"
+
+1610326875 source:c:\users\luu\desktop\mat3520.gr06\threatsobject.cpp
+	"ThreatsObject.h"
+
+1610326923 c:\users\luu\desktop\mat3520.gr06\threatsobject.h
+	"Common.h"
+	"Game.h"
+
+1610326701 source:c:\users\luu\desktop\mat3520.gr06\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Common.h"
+	"Game.h"
+	"Gamemap.h"
+	"MainObject.h"
+	"ThreatsObject.h"
+
